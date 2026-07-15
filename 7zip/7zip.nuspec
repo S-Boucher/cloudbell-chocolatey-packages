@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>7zip</id>
+    <version>1.0.0</version>
+    <title>7-Zip</title>
+    <authors>CloudBell</authors>
+    <owners>CloudBell</owners>
+    <description>Installs latest approved 7-Zip</description>
+  </metadata>
+</package>
